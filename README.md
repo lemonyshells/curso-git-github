@@ -4,11 +4,6 @@
 
 1. Para trabalhar com o repositório na máquina, é necessário copiar o endereço do repositório e utilizar o comando "git clone" + o endereço copiado;
 2. Para que as alterações sejam enviadas para o Github é necessário utilizar o comando "git add ." (adiciona o arquivo localmente) + "git commit -m" (para criar o commit) + "git push (para enviar para o Github)"
-3. 
-
-
-
-
 
 ### Links Úteis
 
