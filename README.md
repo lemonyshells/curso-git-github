@@ -1,5 +1,4 @@
-# Desafio de projeto da DIO.me sobre Git/Github
-Depositório criado para atender o Desafio de Projeto da DIO.me.
+# Anotações sobre o curso de Git/Github da DIO.ME
 
 ### Links Úteis
 #### Markdown
